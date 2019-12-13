@@ -1,0 +1,9 @@
+.zoom-img {
+    background-repeat: no-repeat;
+  }
+  
+ .zoom-img:hover img{
+     opacity: 0;
+     cursor:zoom-in;
+ }
+
