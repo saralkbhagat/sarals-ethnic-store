@@ -1,0 +1,16 @@
+.container{
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 70px;
+}
+
+.not-found{
+  display: grid;
+  grid-template-columns: 1fr;
+  color: #444;
+  width: 75%;
+  margin: 100px 0 auto;
+  text-align: center;
+  align-self: center;
+  font-size: 3em;
+}
